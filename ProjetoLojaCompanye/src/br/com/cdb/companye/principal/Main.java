@@ -32,7 +32,7 @@ public class Main {
 				}
 
 				while (true) {
-					System.out.println(c+"\n 🗒️ MENU PRINCIPAL 🗒️:\n"+stop 
+					System.out.println(c+"\n == | MENU PRINCIPAL | ==:\n"+stop 
 									   +n+"(1) - Gestão de clientes \n" 
 									   + "(5) - Gestão de Estoque\n" 
 									   + "(9) - Realizar vendas\n"
@@ -41,7 +41,7 @@ public class Main {
 					
 					int menu = input.nextInt();
 					if(menu == 1) {
-						System.out.println(c +"🗒️ MENU CLIENTES 🗒️\n"+ stop 
+						System.out.println(c +"== | MENU CLIENTES | ==\n"+ stop 
 										  +n+"(2) - Cadastrar cliente\n"
 										  +"(3) - Ver clientes\n"
 										  +"(4) - Remover clientes\n"
@@ -49,7 +49,7 @@ public class Main {
 										  +g+"Escolha uma opção: "+stop);
 						menu = input.nextInt();
 					}else if(menu == 5) {
-						System.out.println(c +" 🗒️ MENU PRODUTOS 🗒️\n"+stop
+						System.out.println(c +" == | MENU PRODUTOS | == \n"+stop
 										  +n+"(6) - Cadastrar cursos\n"
 										  +"(7) - Ver cursos\n"
 								          +"(8) - Remover cursos\n"
@@ -65,7 +65,7 @@ public class Main {
 
 							input.nextLine();
 
-							System.out.println(c + "📍 CADASTRO DE NOVO CLIENTE 📍\n" + stop 
+							System.out.println(c + "== | CADASTRO DE NOVO CLIENTE | == \n" + stop 
 											 + y + "Nome: " + stop);
 							String nome = input.nextLine();
 							cliente.setNome(nome);
@@ -150,8 +150,8 @@ public class Main {
 						Produtos pdt = new Produtos();
 
 						input.nextLine();
-						System.out.println(c + "📍 CADASTRO DE PRODUTO 📍\n" + stop 
-									+ y + "Digite o nome do curso: " + stop);
+						System.out.println(c + "== | CADASTRO DE PRODUTO | ==\n" + stop 
+								 	+ y + "Digite o nome do curso: " + stop);
 						String produto = input.nextLine();
 
 						if (!produto.equals(pdt.getNome())) {
