@@ -8,7 +8,7 @@
 
 
 ## **📍 IMPORTANTE 📍**
-Todos o projeto está localizado na pasta do projeto ProjetoLojaCompanye:
+Todos os conteúdos do projeto está localizado na pasta do projeto ProjetoLojaCompanye:
 <div align="center">
 <img src="https://github.com/EzauLira/projeto-loja-companye-educ/assets/149651629/bd889cbc-45b1-4d00-b2cb-bd1ee4a5892b" height="200" />
 </div>
