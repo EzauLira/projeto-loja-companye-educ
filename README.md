@@ -22,7 +22,7 @@ Além disso, possuímos um arquivo **.JAR**, chamado **play.jar**, que pode ser 
 
 **DIAGRAMA DE CLASSE**
 <div align="center">
-<img src="https://github.com/EzauLira/projeto-loja-companye-educ/assets/149651629/1c51dd67-29e9-40ae-83a4-e2ffdcdda0cc" height="450" />
+<img src="https://github.com/EzauLira/projeto-loja-companye-educ/assets/149651629/133cbdba-6c12-4911-9b76-6a0782210742" height="450" />
 </div>
 
 
