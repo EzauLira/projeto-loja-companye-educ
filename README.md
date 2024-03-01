@@ -30,7 +30,7 @@ Além disso, possuímos um arquivo **.JAR**, chamado **play.jar**, que pode ser 
 
 **DIAGRAMA DE CLASSE DE USO**
 <div align="center">
-<img src="https://github.com/EzauLira/projeto-loja-companye-educ/assets/149651629/559cb111-f3f1-480c-8f07-6451da854aba" height="450" />
+<img src="https://github.com/EzauLira/projeto-loja-companye-educ/assets/149651629/aafdc233-1170-4f7c-b373-dbdff81956b7" height="450" />
 </div>
 
 ### Para todo o projeto, **Natalie** criou o **Design Thinking** e o **protótipo do site**:
@@ -54,13 +54,22 @@ Além disso, possuímos um arquivo **.JAR**, chamado **play.jar**, que pode ser 
 
 
  ### **💭 NARRATIVA DO PROJETO 💭**
-Nós temos um escritório físico em um local periférico e temos anúncios rodando na internet sobre nossos cursos, com modalidade presencial e EAD. 
-Um belo dia, uma pessoa vem até nós para saber mais sobre nossos cursos…
+Narrativa do projeto:
 
-- Cliente: “Olá, meu nome é Fulano. Soube dos cursos pela internet e gostaria de saber mais.”
-- ADM: “Olá, Fulano! Sim, temos cursos para apresentar para você com condições especiais! Dê uma olhada neles…”
-- Cliente: “Ótimo, adorei saber mais. Vou ficar com o curso tal.”
-- ADM: “Excelente! Estamos com uma super promoção, como você já deve ter visto no anúncio, estamos dando R$100 de desconto nos nossos cursos.”
-- Cliente: “Legal! Amei ainda mais.”
+Era uma vez um escritório físico em um local periférico que tem anúncios rodando na internet sobre cursos relacionados a tecnologia, com modalidade presencial e EAD. Um dos líderes é um rapaz muito inteligente que se chama Fabio. Um belo dia, uma pessoa vem até o Fabio para saber mais sobre os cursos...
 
-Assim, fazemos o cadastro do nosso cliente em nosso banco de dados, em seguida, atrelamos nosso ID do curso com o ID do cliente e aplicamos o desconto. Assim, o cliente ficou feliz e nossa empresa cresceu mais um pouco.
+   - Cliente: Olá, meu nome é "fulano", soube dos cursos pela internet e gostaria de saber mais sobre, tipo as próximas datas, valores...
+
+   - Fabio: Olá, "Fulano"! Sim, temos cursos para apresentar para você com condições especiais! Dê uma olhada neles: tem esse de java, esse de qualidade que começam mês que vem...
+
+   - Cliente: Ótimo, tenho mais interesse no curso de java.
+
+   - Fabio: Excelente! Estamos com uma super promoção, como você já deve ter visto no anúncio, estamos dando R$100 de desconto nos nossos cursos.
+
+   - Cliente: Legal! Curti ainda mais, vou ver aqui e depois entro em contato. Tem algum site que posso ver mais sobre os cursos em detalhe para poder fazer a inscrição?
+   
+   - Fabio: Estamos trabalhando nesse site agora! Assim que ficar pronto, te mando um whatsapp, pode ser? Você pode me passar seu número?
+
+Tendo como base essa interação Fabio x Cliente, pensamos em trazer uma proposta para o site do Company-e/Educ, pois percebemos que o cliente precisou de mais informações sobre os cursos que não estavam disponíveis.
+Assim, nesse projeto, apresentamos uma reformulação do site que visa agregar mais valor e trazer mais dinamismo, fazendo também o cadastro do nosso cliente no nosso banco de dados; em seguida, atrelando nosso ID do curso com o ID do cliente e aplicando o desconto. Assim, o cliente ficou feliz e a empresa poderá crescer mais um pouco.
+
